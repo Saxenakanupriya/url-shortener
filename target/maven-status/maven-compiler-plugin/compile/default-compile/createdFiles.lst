@@ -1,0 +1,4 @@
+com\urlservice\urlshortener\pojo\UrlRequestObj.class
+com\urlservice\urlshortener\UrlshortenerApplication.class
+com\urlservice\urlshortener\controller\UrlController.class
+com\urlservice\urlshortener\service\UrlService.class
